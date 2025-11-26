@@ -162,3 +162,16 @@ Developed the Django backend logic, views, and templates.
 Implemented the admin interface using the HTMX + Alpine.js + Bootstrap stack to achieve a fast, quasi-SPA user experience without heavy JS framework overhead.
 
 •Integration: Established the connection with the existing Shopify/Google Sheets → PostgreSQL data pipeline to ensure the backoffice always utilizes up-to-date, integrated operational data.
+
+---
+
+8.Further Reading 
+
+• [ETL Sample Code](/docs/sample_code_ETL.md)
+
+• [Shopify MetaField Update sample Code](/docs/sample_code_Shopify_MetaField.md)
+
+• [Sample Screenshot](/docs/Screenshot.png)
+
+
+---
