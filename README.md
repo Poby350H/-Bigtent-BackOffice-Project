@@ -171,7 +171,7 @@ Implemented the admin interface using the HTMX + Alpine.js + Bootstrap stack to 
 
 • [Shopify MetaField Update sample Code](/docs/sample_code_Shopify_MetaField.md)
 
-• [Sample Screenshot](/docs/Screenshot.png)
+• [Sample Screenshot](/docs/Screenshot_bigboard2.png)
 
 
 ---
